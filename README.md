@@ -2,17 +2,6 @@
 
 <!--
 **ricardoevansll/ricardoevansll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 # 👋 ¡Hola! Soy Ricardo Evans LLanos  
@@ -34,11 +23,12 @@ Tengo un alto sentido de la responsabilidad, colaboración y trabajo en equipo, 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🗄️ Bases de Datos  
-- ![MySQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![Oracale](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## 📂 Proyectos Destacados  
 - 🏆 [Hackathon Solidario](https://github.com/usuario/proyecto1) - Breve descripción del proyecto.
@@ -47,7 +37,6 @@ Tengo un alto sentido de la responsabilidad, colaboración y trabajo en equipo, 
 ## 📫 Contacto  
 - 📧 Correo: [ricardo.evans01@gmail.com](mailto:tucorreo@example.com)
 - 💼 LinkedIn: [ricardoevans](https://linkedin.com/in/tuusuario)
-<!-- 🐦 Twitter: [Tu Usuario](https://twitter.com/tuusuario)-->
 +
 ¡Gracias por visitar mi perfil! 😊
 
