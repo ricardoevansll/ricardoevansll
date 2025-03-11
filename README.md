@@ -32,10 +32,10 @@ Tengo un alto sentido de la responsabilidad, colaboración y trabajo en equipo, 
 
 ## 📂 Proyectos Destacados  
 - 🏆 [Hackathon Solidario](https://github.com/usuario/proyecto1) - Breve descripción del proyecto.
-- 🚀 [TFG ASIR](https://github.com/usuario/proyecto2) - Breve descripción del proyecto.
+- 🚀 [TFG ASIR](https://github.com/ricardoevansll/TFG) - Breve descripción del proyecto.
   
 ## 📫 Contacto  
-- 📧 Correo: [ricardo.evans01@gmail.com](mailto:tucorreo@example.com)
+- 📧 Correo: [ricardo.evans01@gmail.com](mailto:ricardo.evans01@gmail.com)
 - 💼 LinkedIn: [ricardoevans](https://linkedin.com/in/tuusuario)
 +
 ¡Gracias por visitar mi perfil! 😊
