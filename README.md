@@ -36,7 +36,7 @@ Tengo un alto sentido de la responsabilidad, colaboración y trabajo en equipo, 
   
 ## 📫 Contacto  
 - 📧 Correo: [ricardo.evans01@gmail.com](mailto:ricardo.evans01@gmail.com)
-- 💼 LinkedIn: [ricardoevans](https://linkedin.com/in/tuusuario)
+- 💼 LinkedIn: [ricardoevans](https://linkedin.com/in/ricardoevans)
 +
 ¡Gracias por visitar mi perfil! 😊
 
